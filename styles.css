@@ -199,3 +199,229 @@ body {
 .footer-bottom {
   border-color: #303044;
 }
+
+/* CLINTECH - COMPLETE PREMIUM PURPLE OVERRIDE */
+
+body {
+  background: #0D0D16;
+  color: #F8FAFC;
+}
+
+.site-header,
+.nav-links,
+.nav-links.open {
+  background: #101018;
+}
+
+.nav-links {
+  color: #E5E1EF;
+}
+
+.nav-links a:hover,
+.nav-cta span {
+  color: #A78BFA;
+}
+
+.hero,
+.work-section,
+.service-note {
+  background: #101018;
+}
+
+.hero-glow {
+  background: radial-gradient(circle, #49248B 0, transparent 70%);
+}
+
+.hero h1 em,
+.section h2 em,
+.work-section h2 em,
+.about-copy h2 em {
+  color: #A78BFA;
+}
+
+.eyebrow,
+.eyebrow.dark {
+  color: #C4B5FD;
+}
+
+.pulse,
+.check {
+  background-color: #8B5CF6;
+  color: #C4B5FD;
+}
+
+.button-primary {
+  background: #8B5CF6;
+  color: #FFFFFF;
+}
+
+.button-primary:hover {
+  background: #A78BFA;
+}
+
+.card-main {
+  background: linear-gradient(145deg, #27203D, #151322);
+  border-color: #59418A;
+}
+
+.visual-heading span,
+.arrow-round,
+.work-arrow {
+  color: #A78BFA;
+}
+
+.mini-mark {
+  background: #7041C8;
+}
+
+.floating-tag {
+  background: #211B31;
+  color: #F8FAFC;
+}
+
+.trust-strip {
+  background: #151522;
+  border-color: #303044;
+}
+
+.trust-inner b {
+  color: #E2D9F7;
+}
+
+.trust-inner span {
+  color: #B0AEC2;
+}
+
+.section,
+.about-section {
+  background: #0D0D16;
+}
+
+.section h2,
+.about-copy h2,
+.service-card h3 {
+  color: #F8FAFC;
+}
+
+.section-intro,
+.service-card p,
+.about-copy p {
+  color: #B0AEC2;
+}
+
+.services-grid,
+.service-card {
+  border-color: #39304D;
+}
+
+.service-card {
+  background: #141421;
+}
+
+.service-card.featured,
+.service-note {
+  background: #211A32;
+}
+
+.service-icon,
+.service-card > a,
+.values b {
+  color: #A78BFA;
+}
+
+.service-note p {
+  color: #C4B5FD;
+}
+
+.work-item {
+  border-color: #39304D;
+}
+
+.work-item small,
+.work-disclaimer {
+  color: #B0AEC2;
+}
+
+.about-mark {
+  background: #1A1728;
+}
+
+.about-mark:before,
+.about-mark:after {
+  border-color: #59418A;
+}
+
+.big-ct {
+  color: #F8FAFC;
+}
+
+.big-ct span {
+  color: #A78BFA;
+}
+
+.about-caption,
+.values span {
+  color: #B0AEC2;
+}
+
+.contact-section {
+  background: #151522;
+}
+
+.contact-section h2,
+.contact-section > div > div > p {
+  color: #F8FAFC;
+}
+
+.contact-detail span {
+  color: #B0AEC2;
+}
+
+.contact-detail b {
+  color: #FFFFFF;
+}
+
+.contact-panel {
+  background: #201C2D;
+  color: #F8FAFC;
+  border: 1px solid #39304D;
+}
+
+.contact-panel label {
+  color: #E5DDF7;
+}
+
+.contact-panel input,
+.contact-panel select,
+.contact-panel textarea {
+  background: #11111B;
+  color: #FFFFFF;
+  border-color: #45405A;
+}
+
+.contact-panel input:focus,
+.contact-panel select:focus,
+.contact-panel textarea:focus {
+  border-color: #A78BFA;
+}
+
+.panel-top {
+  color: #C4B5FD;
+}
+
+.form-hint {
+  color: #B0AEC2;
+}
+
+.footer {
+  background: #080810;
+}
+
+.footer-bottom {
+  border-color: #39304D;
+}
+
+.button-light {
+  background: #F8FAFC;
+  color: #171326;
+}
