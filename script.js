@@ -19,7 +19,7 @@
 
     var form = document.getElementById('contact-form');
     var status = document.getElementById('form-status');
-    var EMAIL = 'hello@clintech.example'; // replace with your real address
+    var EMAIL = 'clintech22@gmail.com'; // replace with your real address
     if (form) {
       var rules = {
         name: function (v) { return v.trim().length >= 2 ? '' : 'Enter your full name.'; },
